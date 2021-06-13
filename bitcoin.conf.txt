@@ -1,0 +1,12 @@
+# uncomment and change all rpc* parameters
+# rename this file to bitcoin.conf and put it to your ".bitcoin" directory
+server=1
+daemon=1
+#rpcallowip=192.168.0.0/16
+#rpcuser=
+#rpcpassword=
+mining=0
+prune=550
+checklevel=2
+checkblocks=10
+checkblocksverify=10
