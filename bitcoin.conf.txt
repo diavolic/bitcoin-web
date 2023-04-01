@@ -3,8 +3,8 @@
 server=1
 daemon=1
 #rpcallowip=192.168.0.0/16
-#rpcuser=
-#rpcpassword=
+rpcuser=RPC_user
+rpcpassword=$tr0ng_passw0rd
 mining=0
 prune=550
 checklevel=2
