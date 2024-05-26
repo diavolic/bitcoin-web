@@ -7,6 +7,7 @@ Requirements:
       bitcoin core installed and preconfigured (see example configuration)
 
 Developed and maintained by diavolic (diavolic@gmail.com)
+<hr>
 
 config.ini variables explanation:
 
